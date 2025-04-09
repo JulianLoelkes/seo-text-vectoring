@@ -81,4 +81,5 @@ These are automatically installed via the script in Colab:
 
 ## 🔐 Author
 Julian Lölkes
+
 Made with ❤️ to automate smart internal linking with semantic similarity.
